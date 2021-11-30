@@ -1,0 +1,16 @@
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.csproj.AssemblyReference.cache
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.AssemblyInfoInputs.cache
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.AssemblyInfo.cs
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.csproj.CoreCompileInputs.cache
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\bin\Debug\net5.0\Omsi2.exe
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\bin\Debug\net5.0\Omsi2.deps.json
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\bin\Debug\net5.0\Omsi2.runtimeconfig.json
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\bin\Debug\net5.0\Omsi2.runtimeconfig.dev.json
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\bin\Debug\net5.0\Omsi2.dll
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\bin\Debug\net5.0\ref\Omsi2.dll
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\bin\Debug\net5.0\Omsi2.pdb
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.dll
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\ref\Omsi2.dll
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.pdb
+D:\Estrutura-Dados-Livro\Omsi2\Omsi2\obj\Debug\net5.0\Omsi2.genruntimeconfig.cache
